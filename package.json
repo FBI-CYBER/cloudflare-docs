@@ -31,7 +31,7 @@
 		"ai-setup:copilot": "npm run ai-setup:import-from-opencode && npx rulesync generate --targets copilot --features commands,subagents"
 	},
 	"devDependencies": {
-		"@actions/core": "1.11.1",
+		"@actions/core": "3.0.1",
 		"@actions/github": "6.0.1",
 		"@apidevtools/swagger-parser": "12.0.0",
 		"@astrojs/check": "0.9.4",
